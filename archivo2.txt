@@ -1,1 +1,4 @@
 nuevo archivo para probar comandos git
+estoy modificando el archivo 2
+para probar como hacer un merge
+y dejar una versión estable
